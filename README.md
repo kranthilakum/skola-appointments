@@ -45,6 +45,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+- [React.js: Building an Interface](https://www.linkedin.com/learning/react-js-building-an-interface-8551484), Ray Villalobos, Linkedin Learning
+- [Demo - React.js: Building an Interface](https://github.com/LinkedInLearning/react-interface-2880067)
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
